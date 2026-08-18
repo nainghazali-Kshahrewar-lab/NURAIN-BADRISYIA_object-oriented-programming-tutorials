@@ -90,7 +90,7 @@ Main concepts:
 - Methods
 - Object creation
 
-Week 3–4 – Inheritance and Method Overriding
+Week 3&4 – Inheritance and Method Overriding
 Week 3 and Week 4 introduced inheritance using a university people scenario. A Student and Lecturer were created as subclasses of the Person class.
 The tutorial also introduced method overriding, where different classes provide their own implementation of the introduce() method.
 Main concepts:
@@ -131,7 +131,7 @@ Main concepts:
 - Common behaviour
 - Different implementations
 
-Week 8–9 – To-Do List and File Handling
+Week 8&9 – To-Do List and File Handling
 Week 8 and Week 9 focused on creating a simple task management application. The program allows users to enter three tasks and stores them using an ArrayList.
 The program was then extended to save the tasks into a text file and read the saved tasks from the file.
 Main concepts:
