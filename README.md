@@ -161,14 +161,14 @@ Main concepts:
 
 ## Technologies Used
 The following technologies and tools were used throughout the tutorials:
-i. Java – Main programming language
-ii. Java Development Kit (JDK) – Used to compile and run Java programs
-iii. GitHub – Used for repository management and version control
-iv. GitHub Codespaces – Used as the development environment for Java tutorials
-v. Git – Used to track and upload changes to the repository
-vi. Java Swing – Used to develop the Week 10 graphical user interface
-vii. ArrayList – Used to store multiple task items in Week 8–9
-viii. Java File I/O – Used to save and load tasks from a text file
+- Java: Main programming language
+- Java Development Kit (JDK): Used to compile and run Java programs
+- GitHub: Used for repository management and version control
+- GitHub Codespaces: Used as the development environment for Java tutorials
+- Git: Used to track and upload changes to the repository
+- Java Swing: Used to develop the Week 10 graphical user interface
+- ArrayList: Used to store multiple task items in Week 8–9
+- Java File I/O: Used to save and load tasks from a text file
 
 ---
 ## How to Run the Projects
@@ -222,10 +222,6 @@ The program allows the user to enter three tasks, displays them in the terminal,
 ---
 ## Reflection Summary
 Completing the tutorials helped me develop a stronger understanding of Java and Object-Oriented Programming. 
-At the beginning, I mainly focused on understanding the syntax and basic structure of Java programs. As the tutorials progressed, I became more familiar with how classes and objects work together.
-The inheritance tutorials helped me understand how a child class can reuse properties and methods from a parent class. The encapsulation tutorial showed me why data should be protected using private variables and accessed through getters and setters. 
-I also learned that abstraction can be used to provide common functionality while hiding implementation details.
-The later tutorials helped me apply Java concepts to more practical situations. The Week 8–9 task management program introduced me to storing information using an ArrayList and saving information into a file. Week 10 introduced Java Swing and showed me how Java can be used to create a simple graphical application.
-I also improved my ability to use Git and GitHub throughout the tutorials. Creating folders, committing changes and pushing my work helped me understand the importance of organising and maintaining programming projects properly.
-Although some of the coding activities were challenging, especially when several concepts had to be used together, completing the tutorials helped me become more confident in analysing errors and understanding how the different parts of a Java program work together.
-Overall, this assignment gave me practical experience with Java programming and the fundamental concepts of Object-Oriented Programming. It also helped me understand that programming is not only about writing code, but also about organising, testing, debugging, documenting and maintaining the work properly.
+At the beginning, I mainly focused on understanding the syntax and basic structure of Java programs. As the tutorials progressed, I became more familiar with how classes and objects work together. The inheritance tutorials helped me understand how a child class can reuse properties and methods from a parent class. The encapsulation tutorial showed me why data should be protected using private variables and accessed through getters and setters. I also learned that abstraction can be used to provide common functionality while hiding implementation details.
+The later tutorials helped me apply Java concepts to more practical situations. The Week 8–9 task management program introduced me to storing information using an ArrayList and saving information into a file. Week 10 introduced Java Swing and showed me how Java can be used to create a simple graphical application. I also improved my ability to use Git and GitHub throughout the tutorials. Creating folders, committing changes and pushing my work helped me understand the importance of organising and maintaining programming projects properly.
+Although some of the coding activities were challenging, especially when several concepts had to be used together, completing the tutorials helped me become more confident in analysing errors and understanding how the different parts of a Java program work together. Overall, this assignment gave me practical experience with Java programming and the fundamental concepts of Object-Oriented Programming. It also helped me understand that programming is not only about writing code, but also about organising, testing, debugging, documenting and maintaining the work properly.
